@@ -1,0 +1,5 @@
+{
+  "name": "RAG Extractor",
+  "description": "An advanced RAG (Retrieval-Augmented Generation) tool that processes documents and web search results to extract relevant, grounded answers.",
+  "requestFramePermissions": []
+}
