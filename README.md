@@ -108,11 +108,9 @@ The codebase is organized into logical directories for components, services, and
 
 **Shoury Pandya**
 
-- **LinkedIn:** [https://www.linkedin.com/in/shourypandya/](https://www.linkedin.com/in/shourypandya/)
+- **LinkedIn:** [https://www.linkedin.com/in/shourypandya](https://www.linkedin.com/in/shourypandya)
 
 ## License
 
 This project is licensed under the MIT License.
-=======
-# RAG-Extractor
->>>>>>> 2fbdeb004e87337cf7ad5c383008321afa405060
+
